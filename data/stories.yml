@@ -1,0 +1,56 @@
+version: "3.1"
+
+stories:
+
+- story: greet and show restaurants
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: restaurants
+  - action: action_show_restaurants
+
+- story: direct restaurant request
+  steps:
+  - intent: restaurants
+  - action: action_show_restaurants
+
+- story: ask restaurant details after showing restaurants
+  steps:
+  - intent: restaurants
+  - action: action_show_restaurants
+  - intent: detail
+  - action: action_restaurants_detail
+
+- story: ask distance after showing restaurants
+  steps:
+  - intent: restaurants
+  - action: action_show_restaurants
+  - intent: distance
+  - action: action_distance
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye

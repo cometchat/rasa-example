@@ -1,0 +1,7 @@
+rasa
+pandas
+python-dotenv
+openai
+requests
+httpx
+aiohttp

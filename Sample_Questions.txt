@@ -1,0 +1,522 @@
+# 🍽️ Restaurant Bot - Example Questions
+
+## 📝 Complete List of Questions You Can Ask
+
+This is a comprehensive list of questions you can ask the restaurant bot. Copy and paste these into your conversations to test the bot!
+
+---
+
+## 🚀 Getting Started
+
+### Initial Query (Required First!)
+```
+show me restaurants
+I'm hungry
+find me a restaurant
+I'm looking for a place to eat
+show me places to eat
+recommend some restaurants
+what restaurants are nearby
+show me restaurant list
+where can I eat
+I want to grab food
+looking for dining options
+what's good to eat around here
+```
+
+---
+
+## 🎯 Cuisine Filtering
+
+### Mexican Restaurants
+```
+show me top 3 Mexican restaurants
+give me the best Mexican restaurants
+what are the highest rated Mexican restaurants
+show me Mexican food
+which ones serve Mexican food
+top rated Mexican restaurants
+show me the best Mexican places
+find me Mexican restaurants
+I want Mexican food
+```
+
+### Italian Restaurants
+```
+show me top 5 Italian places
+give me the best Italian restaurants
+what Italian restaurants do you have
+which ones serve Italian food
+top rated Italian restaurants
+show me Italian restaurants with good ratings
+find me the best Italian places
+I want Italian food
+give me the best 5 Italian places
+```
+
+### Chinese Restaurants
+```
+show me Chinese restaurants
+what are the top rated Chinese restaurants
+give me the best Chinese places
+top 3 restaurants for Chinese food
+which Chinese restaurants are highest rated
+show me Chinese food options
+find me Chinese restaurants
+```
+
+### American Restaurants
+```
+show me American restaurants
+what are the best American restaurants
+give me top American places
+which ones serve American food
+show me American food
+find me American restaurants
+```
+
+### Indian Restaurants
+```
+show me Indian restaurants
+what Indian restaurants do you have
+tell me about the Indian restaurant
+best Indian restaurants
+give me Indian food options
+```
+
+### Japanese Restaurants
+```
+show me Japanese restaurants
+what Japanese restaurants do you have
+find me Japanese food
+best Japanese restaurants
+```
+
+### Healthy Options
+```
+show me healthy restaurants
+what healthy options do you have
+give me healthy food choices
+```
+
+---
+
+## ⭐ Rating-Based Queries
+
+### Top Rated (General)
+```
+what's the highest rated?
+show top rated restaurants
+show me the top 5 restaurants
+give me the best restaurants
+find me the top 3 highest rated restaurants
+what are the top rated restaurants
+show me restaurants with good ratings
+give me top 4 restaurants by rating
+which restaurants have the best ratings
+show me the best rated places
+```
+
+### Specific Numbers
+```
+show me the top 3 restaurants
+give me the best 5 places
+top 10 restaurants
+show me your top 4 recommendations
+```
+
+---
+
+## 📡 WiFi Availability
+
+### WiFi Filtering
+```
+which of those have wifi?
+show me restaurants with WiFi
+which ones have WiFi
+do any have WiFi
+show me 5 restaurants with wifi
+top rated restaurants with WiFi
+which Mexican restaurants have WiFi
+does the Chinese place have wifi
+does the Mexican one have wifi
+show me WiFi enabled restaurants
+```
+
+### Specific Restaurant WiFi
+```
+does Pizza Hut have WiFi
+does Chipotle have WiFi
+does 60 seconds to Nepoli have wifi
+does the indian restaurant have WiFi
+```
+
+---
+
+## 📍 Distance & Location
+
+### Closest Restaurant
+```
+which one is closest?
+what's the nearest restaurant?
+which is at the shortest distance?
+show me by distance
+which one is closest to me
+find the nearest one
+for the above show the nearest
+organize by proximity
+how far are these restaurants
+distance to each restaurant
+```
+
+### Combined Distance Queries
+```
+which of them have wifi and is closest
+which of them doesn't have wifi and is closest
+which of them have best rating and is closest
+sort by closest distance
+sort by farthest distance
+```
+
+---
+
+## 🍴 Combined Filter Queries
+
+### Cuisine + Rating
+```
+show me top 3 Mexican restaurants
+give me the best 5 Italian places
+top rated Chinese restaurants
+what are the best 2 American restaurants
+best 3 Indian restaurants
+top rated Italian restaurants
+show me the best Mexican food
+which Italian restaurants are highest rated
+```
+
+### Cuisine + WiFi
+```
+which Italian restaurants have WiFi
+show me Mexican restaurants with WiFi
+which Chinese places have WiFi
+best restaurants with WiFi
+```
+
+### Cuisine + Rating + WiFi
+```
+top rated Mexican restaurants with WiFi
+best Italian restaurants with WiFi
+show me highly rated restaurants with WiFi
+```
+
+---
+
+## 🔍 Specific Restaurant Details
+
+### Restaurant Information
+```
+what's the rating for Pizza Hut
+tell me about Chipotle
+what's the rating for Mama's Pizza
+tell me about the indian restaurant
+does 60 seconds to Nepoli have wifi
+what's the rating for the Cheesecake Factory
+tell me about Sushi Roku
+what's the rating for Biryani Bowl
+```
+
+### Restaurant Attributes
+```
+does the chinese place do takeaway?
+which ones are open late
+do any have outdoor seating
+what kind of food can I order
+show me restaurant details
+```
+
+---
+
+## 💬 Conversational Queries
+
+### Greetings
+```
+hey
+hello
+hi
+hello there
+good morning
+good evening
+good afternoon
+hey there
+hey dude
+```
+
+### Affirmations
+```
+yes
+y
+indeed
+of course
+that sounds good
+correct
+```
+
+### Denials
+```
+no
+n
+never
+I don't think so
+don't like that
+no way
+not really
+```
+
+### Goodbye
+```
+bye
+goodbye
+see you later
+have a nice day
+good night
+thanks bye
+cu
+cee you later
+bye bye
+see you around
+```
+
+### Bot Challenge
+```
+are you a bot?
+are you a human?
+am I talking to a bot?
+am I talking to a human?
+```
+
+---
+
+## 🎭 Mood Expressions
+
+### Positive Mood
+```
+I'm feeling great!
+perfect
+amazing
+wonderful
+I am feeling very good
+super stoked
+extremely good
+so good
+so perfect
+```
+
+### Negative Mood
+```
+my day was horrible
+I am sad
+I don't feel very well
+I am disappointed
+super sad
+I'm so sad
+very sad
+unhappy
+not good
+extremely sad
+```
+
+---
+
+## 🔥 Advanced Complex Queries
+
+### Multi-Criteria Filtering
+```
+show me top 3 Mexican restaurants with WiFi
+give me the 5 closest restaurants with good ratings
+what are the best Italian restaurants near me with WiFi
+top rated restaurants with WiFi sorted by distance
+show me highly rated Mexican restaurants that are close
+```
+
+### Comparative Queries
+```
+which is better, Pizza Hut or Olive Garden?
+compare the Mexican restaurants
+what's the difference between the Chinese places
+which Italian restaurant is closest
+```
+
+### Analytical Queries
+```
+what cuisine type has the most restaurants?
+which cuisine is highest rated on average?
+how many restaurants have WiFi?
+what's the average rating?
+which restaurants are within 10 units?
+```
+
+---
+
+## 📊 Sample Conversation Flows
+
+### Flow 1: Quick Search
+```
+1. show me restaurants
+2. which ones serve Italian food?
+3. which one is closest?
+4. bye
+```
+
+### Flow 2: Filtered Search
+```
+1. I'm hungry
+2. show me top 3 Mexican restaurants
+3. does the top one have WiFi?
+4. thanks, goodbye
+```
+
+### Flow 3: Detailed Exploration
+```
+1. find me a restaurant
+2. what's the highest rated?
+3. tell me about Biryani Bowl
+4. does it have WiFi?
+5. how far is it?
+6. perfect, thanks!
+```
+
+### Flow 4: Cuisine Comparison
+```
+1. show me restaurants
+2. which Italian restaurants are highest rated?
+3. what about Mexican restaurants?
+4. show me the top 3 overall
+5. which is closest?
+6. great, bye
+```
+
+### Flow 5: WiFi Priority
+```
+1. show me restaurant list
+2. which ones have WiFi?
+3. of those, which is highest rated?
+4. which WiFi restaurant is closest?
+5. thanks!
+```
+
+---
+
+## 🎯 Testing Checklist
+
+Use this checklist to test all major features:
+
+- [ ] Show all restaurants
+- [ ] Filter by cuisine (Mexican, Italian, Chinese, American, Indian, Japanese)
+- [ ] Top N rated (top 3, best 5, etc.)
+- [ ] WiFi filtering
+- [ ] Distance/proximity queries
+- [ ] Combined filters (cuisine + rating, cuisine + WiFi)
+- [ ] Specific restaurant details
+- [ ] Greetings and goodbyes
+- [ ] Bot identity questions
+- [ ] Mood expressions
+
+---
+
+## 💡 Pro Tips
+
+### For Best Results:
+1. **Always start with** "show me restaurants" or "I'm hungry"
+2. **Then filter** with specific criteria
+3. **Use actual cuisine names** from the database (Mexican, Italian, Chinese, American, Indian, Japanese, Healthy)
+4. **Be specific with numbers** when asking for "top N"
+5. **Combine filters naturally** like "top 3 Mexican restaurants with WiFi"
+
+### What Works Well:
+✅ Natural language queries
+✅ Cuisine names (case insensitive)
+✅ Rating-based sorting
+✅ WiFi filtering
+✅ Distance calculations
+✅ Multi-turn conversations
+
+### What Might Need Clarification:
+⚠️ Very complex multi-criteria queries (break into steps)
+⚠️ Ambiguous references without context
+⚠️ Restaurants not in the database
+⚠️ Requests for features not supported (reservations, reviews, etc.)
+
+---
+
+## 📝 Notes
+
+- **Case insensitive**: "mexican", "Mexican", "MEXICAN" all work
+- **Synonyms work**: "top", "best", "highest rated" are equivalent
+- **Context maintained**: Bot remembers previous restaurants shown
+- **100+ variations**: OpenAI understands many phrasings
+- **Emoji support**: Bot responses include emojis for better UX
+
+---
+
+## 🚀 Quick Copy-Paste Test Suite
+
+### Minimal Test (5 queries)
+```
+show me restaurants
+show me top 3 Mexican restaurants
+which one is closest?
+does it have WiFi?
+bye
+```
+
+### Standard Test (10 queries)
+```
+hey
+I'm hungry
+what's the highest rated?
+show me top 3 Mexican restaurants
+which Italian restaurants are highest rated?
+which ones have WiFi?
+which one is closest?
+tell me about Chipotle
+perfect
+thanks, goodbye
+```
+
+### Comprehensive Test (20 queries)
+```
+hello
+show me restaurants
+what's the highest rated?
+show me top 5 restaurants
+which ones serve Italian food?
+show me top 3 Mexican restaurants
+which Italian restaurants are highest rated?
+what are the best Chinese restaurants?
+which ones have WiFi?
+show me restaurants with WiFi
+top rated restaurants with WiFi
+which one is closest?
+what's the nearest restaurant?
+tell me about Pizza Hut
+does Chipotle have WiFi?
+what's the rating for Biryani Bowl?
+tell me about the indian restaurant
+which is closest with WiFi?
+perfect, thanks
+goodbye
+```
+
+---
+
+## 📚 Additional Resources
+
+For more information, see:
+- **QUICK_REFERENCE.md** - Quick reference card
+- **GUIDE_TOP_N_QUERIES.md** - How "top N" queries work
+- **REST_API_GUIDE.md** - REST API documentation
+- **ARCHITECTURE.md** - System architecture
+
+---
+
+Last updated: October 22, 2025

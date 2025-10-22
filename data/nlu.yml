@@ -1,0 +1,162 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - yo
+    - sup
+    - wassup
+    - what's up
+    - hello there
+    - good morning
+    - good afternoon
+    - good evening
+    - moin
+    - hey there
+    - hey man
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+
+- intent: restaurants
+  examples: |
+    - show me places to eat
+    - I'm looking for a great restaurant
+    - show me food
+    - where can I eat
+    - I'm hungry
+    - find me a restaurant
+    - recommend some restaurants
+    - what restaurants are nearby
+    - I want to grab food
+    - looking for dining options
+    - show me restaurant list
+    - what's good to eat around here
+
+- intent: detail
+  examples: |
+    - which of those have [wifi]?
+    - what's the highest rated?
+    - does the [chinese] place do takeaway?
+    - does the [mexican] one have wifi
+    - show me restaurants with good ratings
+    - which ones serve [italian] food
+    - do any have outdoor seating
+    - what's the rating for [Pizza Hut]
+    - tell me about the [indian] restaurant
+    - which ones are open late
+    - what's the rating for [Pizza Hut](restaurant)
+    - tell me about [Chipotle](restaurant)
+    - does [60 seconds to Nepoli](restaurant) have wifi
+    - show top rated restaurants
+    - what kind of food can I order
+    - show me top 3 [mexican] restaurants
+    - give me the best 5 [italian] places
+    - top 3 restaurants for [chinese] food
+    - show me the top rated [mexican] restaurants
+    - what are the best 2 [american] restaurants
+    - find me the top 3 highest rated restaurants
+    - show me 5 restaurants with [wifi]
+    - give me top 4 restaurants by [rating]
+    - best 3 [indian] restaurants
+    - top rated [italian] restaurants
+    - show me the best [mexican] food
+    - which [chinese] restaurants are highest rated
+
+- intent: goodbye
+  examples: |
+    - cu
+    - ciao
+    - good by
+    - good bye
+    - see you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    -  great
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+
+- intent: distance
+  examples: |
+    - which of them have wifi and is closest
+    - which of them doesn't have wifi and is closest
+    - which of them have best rating and is closest
+    - for the above show the nearest
+    - which is at the shortest distance
+    - sort by closest distance
+    - sort by farthest distance
+    - how far are these restaurants
+    - what's the nearest restaurant
+    - show me by distance
+    - which one is closest to me
+    - find the nearest one
+    - distance to each restaurant
+    - organize by proximity
