@@ -25,3 +25,14 @@
 - In another terminal (activate the virtual env first), start the main rasa server. Run `rasa run --enable-api --cors "*"` to start it. Replace "*" with the domain which should interact with it. Uses port 5005. Specify a custom port using `-p` flag. To use authorization, pass ` --auth-token "my_secret_token"` to the above command. Then, in the request send the `Authorization: Bearer my_secret_token` header.
 
 That's pretty much it. Any modifications to the code, retrain and restart the servers. See the [Sample Questions](Sample_Questions.txt) file to see some sample questions that can be asked.
+
+Sample request is like the below example. Change the url to your hosted endpoint.
+
+```bash
+curl -X POST http://0.0.0.0:5005/webhooks/rest/webhook \
+  -H "Content-Type: application/json" \
+  -d '{
+    "sender": "user_123",
+    "message": "show me restaurants"               
+  }' | jq
+```
